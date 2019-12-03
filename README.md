@@ -3,4 +3,9 @@ Web Designing
 
 
 
-PSD file name: STRICT, Which is converted to code (using HTML, CSS, and JavaScript).
+PSD files are converted to code(using HTML, CSS and Javascript): 
+
+
+1.STRICT
+
+2. Business related website.
